@@ -1,7 +1,16 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Live URL : https://world-data-hub.vercel.app/ 
+
+# Live URL : https://world-data-hub.vercel.app/ 
+
+User should be able to:
+See all countries from the API on the homepage
+Search for a country using an input field
+Filter countries by region
+Click on a country to see more detailed information on a separate page
+Click through to the border countries on the detail page
+Toggle the color scheme between light and dark mode
 
 ## Available Scripts
 
