@@ -1,3 +1,36 @@
+# WorldDataHub - React App
+
+## Overview
+
+**WorldDataHub** is a web application that fetches and displays detailed information about countries around the world, using data from the [REST Countries API](https://restcountries.com/v2/all). The application is built using **ReactJS** for the front-end and styled with **Tailwind CSS** for responsive and modern design.
+
+## Features
+- Displays a list of all countries with detailed information like population, region, capital, flag, currency, and more.
+- Searchable country data.
+- User-friendly interface.
+- Fully responsive UI thanks to **Tailwind CSS**.
+
+## Technologies Used
+- **ReactJS**: For building the user interface.
+- **Tailwind CSS**: For styling and layout.
+- **REST Countries API**: For fetching country data.
+
+## Installation and Setup
+
+### Prerequisites
+
+Before you begin, ensure you have the following installed:
+- **Node.js** (v14.x or later)
+- **npm** (or **yarn**) - comes with Node.js
+- **ReactJS** (via Create React App)
+
+### Steps to Run the Project Locally
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/ajitmane1810/WorldDataHub.git
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
